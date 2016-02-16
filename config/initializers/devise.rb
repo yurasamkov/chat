@@ -3,7 +3,7 @@
 Devise.setup do |config|
 
 
-  config.omniauth :facebook, ENV['1533187196981029'], ENV['f2cb7e371059b4c97cd8d9bd7d1c66ef']
+  config.omniauth :facebook, ENV['1096324913745558'], ENV['fd8f5d12fd2fbab4952f8eba2daf8f6e']
   config.omniauth :twitter, ENV['TWITTER_KEY'], ENV['TWITTER_SECRET']
   config.omniauth :linked_in, ENV['LINKEDIN_KEY'], ENV['LINKEDIN_SECRET']
 
